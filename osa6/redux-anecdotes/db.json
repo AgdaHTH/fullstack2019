@@ -1,0 +1,84 @@
+{
+  "anecdotes": [
+    {
+      "content": "If it hurts, do it more often",
+      "id": "47145",
+      "votes": 17
+    },
+    {
+      "content": "Adding manpower to a late software project makes it later!",
+      "id": "21149",
+      "votes": 10
+    },
+    {
+      "content": "The first 90 percent of the code accounts for the first 90 percent of the development time...The remaining 10 percent of the code accounts for the other 90 percent of the development time.",
+      "id": "69581",
+      "votes": 5
+    },
+    {
+      "content": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+      "id": "36975",
+      "votes": 0
+    },
+    {
+      "content": "Premature optimization is the root of all evil.",
+      "id": "25170",
+      "votes": 0
+    },
+    {
+      "content": "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.",
+      "id": "98312",
+      "votes": 0
+    },
+    {
+      "content": "A new anecdote",
+      "votes": 0,
+      "id": "mY7kpaD"
+    },
+    {
+      "content": "An old anecdote",
+      "votes": 0,
+      "id": "XfyaQ9-"
+    },
+    {
+      "content": "A stupid anecdote",
+      "votes": 3,
+      "id": "WCRa1U3"
+    },
+    {
+      "content": "A funny anecdote",
+      "votes": 0,
+      "id": "kL9SN8x"
+    },
+    {
+      "content": "A bad anecdote",
+      "votes": 0,
+      "id": "k2C5Kl6"
+    },
+    {
+      "content": "A good anecdote",
+      "votes": 0,
+      "id": "egvVzQN"
+    },
+    {
+      "content": "A super anecdote",
+      "votes": 1,
+      "id": "CBENrvt"
+    },
+    {
+      "content": "A new anecdote",
+      "votes": 0,
+      "id": "KMG8uXf"
+    },
+    {
+      "content": "A final anecdote",
+      "votes": 1,
+      "id": "tLKX8y9"
+    },
+    {
+      "content": "A not so nice anecdote",
+      "votes": 0,
+      "id": "f0HByt5"
+    }
+  ]
+}
